@@ -32,8 +32,5 @@ This is a comprehensive PySpark-based big data analytics system designed to anal
 3. Access output Parquet files for further analysis or visualization.
 
 
-## License
-
-This project is licensed under MIT License.
 
 
