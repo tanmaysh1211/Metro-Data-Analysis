@@ -27,7 +27,7 @@ This is a comprehensive PySpark-based big data analytics system designed to anal
 
 ## Usage
 
-1. Ensure the dataset (`metro.csv`) is available in the `csv/` directory.
+1. Ensure the dataset (`metro.csv`) is available.
 2. Run the PySpark script to perform data processing, training, and analytics.
 3. Access output Parquet files for further analysis or visualization.
 
