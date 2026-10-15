@@ -1,0 +1,45 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Spark and Hadoop generated output
+spark-warehouse/
+metastore_db/
+derby.log/
+artifacts/
+checkpoints/
+
+# Generated processed data
+delhi_metro_processed_parquet/
+*.parquet/
+
+# Operating system files
+.DS_Store
+Thumbs.db
